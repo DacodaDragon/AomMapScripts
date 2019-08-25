@@ -6,14 +6,17 @@ There currently two random mapscripts included in this repo:
 
 ---
 
-> **True Random**
+> **True Random** [**\[Steam Workshop\]**](https://steamcommunity.com/sharedfiles/filedetails/?id=1248635643)
 > ---
-> True random is an attempt at making random map scripts more random than they already were! Instead of having one theme bound to them, it mixes and mashes themes up each time you play! Will it be a water map, will it be a land map? High hunt or low hunt? Who knows what you'll get! 
+> True random is an attempt at making random map scripts more random than they already were! Instead of having one theme bound to them, it mixes and mashes themes up each time you play! Will it be a water map, will it be a land map? High hunt or low hunt? Who knows what you'll get!
+> 
+> 'True Random' Is a pretty unique experience, and the community thinks so too! The mapscript has been 'mapscript of the month' on [AOM Heaven](http://aom.heavengames.com/) back when it was released and received a lot of positive ratings and stats on the [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=1248635643)!
 > 
 > ![](https://i.imgur.com/IXiTIcg.jpg)
 
 
-> **SNOW HOLES** (Aka. Artic Craters)
+> **SNOW HOLES** (Aka. Artic Craters)[**\[Steam Workshop\]**](https://steamcommunity.com/sharedfiles/filedetails/?id=1131508074)
+> ---
 > ---
 > Snow holes is a map based on a design by Keen_Flame that he made inside of the editor. The map looked interesting to play on, and we really wanted to see it in an actual script! So we made it!
 > ![](https://i.imgur.com/CHvro1q.jpg)
