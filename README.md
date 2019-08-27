@@ -1,8 +1,6 @@
 # AOM XS Random Map Scripting
 
-Despite the fact I am pretty bad at playing Age Of Mythology and age of empires or, any rts game in that matter, I have been active inside of the modding and mapscripting community together with my cousin a bit (he's got 5500+ hours in the game, damn).
-
-There currently two random mapscripts included in this repo:
+Despite the fact I am pretty bad at playing Age Of Mythology and age of empires or, any rts game for that matter, I have been active inside of the modding and mapscripting community together with my cousin (he's got 5500+ hours in the game, not even kidding). This repository contains two of the random map scripts that we have made in collaboration to expand the players choice in well balanced maps that they could play.
 
 ---
 
